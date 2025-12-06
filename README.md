@@ -10,6 +10,7 @@ I am exploring the intersection of **Physics** and **Artificial Intelligence**.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Avi7ii&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+![Visitor Count](https://profile-counter.glitch.me/Avi7ii/count.svg)
 
 <!--
 **Avi7ii/Avi7ii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
