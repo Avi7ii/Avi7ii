@@ -8,7 +8,7 @@ I am exploring the intersection of **Physics** and **Artificial Intelligence**.
 - 🌱 I’m currently learning **VASP**, **Python**, and **Linux**.
 - ⚡ Fun fact: I believe AI can help us find the next Room-Temperature Superconductor.
 
-[![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Avi7ii&theme=radical)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Avi7ii&layout=compact&theme=radical&langs_count=10&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Avi7ii&label=Visitor%20Count&color=0e75b6&style=flat)
 
