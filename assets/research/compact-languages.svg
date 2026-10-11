@@ -1,9 +1,9 @@
-<svg width="180" height="165" viewBox="0 0 180 165" xmlns="http://www.w3.org/2000/svg">
+<svg width="180" height="140" viewBox="0 0 180 140" xmlns="http://www.w3.org/2000/svg">
 <style>
 svg {
   font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji;
   font-size: 12px;
-  line-height: 17px;
+  line-height: 16px;
 }
 
 #background {
@@ -18,13 +18,13 @@ svg {
 
 foreignObject {
   width: calc(100% - 24px);
-  height: calc(100% - 10px - 24px);
+  height: calc(100% - 22px);
 }
 
 h2 {
   margin-top: 0;
   margin-bottom: 0.4em;
-  line-height: 24px;
+  line-height: 20px;
   font-size: 12px;
   font-weight: 600;
   color: rgb(72, 148, 224);
@@ -76,7 +76,7 @@ div.ellipsis {
   background-color: #00000000;
   border-radius: 6px;
   outline: 1px solid transparent;
-  margin-bottom: 0.6em;
+  margin-bottom: 0.4em;
 }
 
 .lang {
@@ -92,7 +92,7 @@ div.ellipsis {
 <g>
 <rect x="5" y="5" id="background" />
 <g>
-<foreignObject x="12" y="17" width="156" height="145">
+<foreignObject x="12" y="11" width="156" height="118">
 <div xmlns="http://www.w3.org/1999/xhtml" class="ellipsis">
 
 <h2>Languages</h2>
