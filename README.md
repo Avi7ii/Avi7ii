@@ -15,7 +15,7 @@ I’m an **Applied Physics undergraduate at Yanshan University**, interested in 
 <a href="https://github.com/Avi7ii/AirSend"><strong>AirSend</strong></a> &nbsp; · &nbsp; <a href="https://github.com/Avi7ii/Zotero-glass"><strong>Zotero glass</strong></a> &nbsp; · &nbsp; <a href="https://github.com/Avi7ii/GetBackMyWindows"><strong>GetBackMyWindows</strong></a>
 
 <a href="https://github.com/Avi7ii?tab=repositories"><img src="https://raw.githubusercontent.com/Avi7ii/Avi7ii/73437604bf217c632c88c0c9bd42b0ce5a9c6362/assets/research/compact-overview.svg" alt="Public snapshot: 207 stars, 7 forks on owned non-fork repositories; 25 public repositories. 11 October 2026." width="180" /></a>
-<a href="https://github.com/Avi7ii?tab=repositories"><img src="https://raw.githubusercontent.com/Avi7ii/Avi7ii/73437604bf217c632c88c0c9bd42b0ce5a9c6362/assets/research/compact-languages.svg" alt="Primary language counts for owned public non-fork repositories, not skill levels." width="180" /></a>
+<a href="https://github.com/Avi7ii?tab=repositories"><img src="https://raw.githubusercontent.com/Avi7ii/Avi7ii/166d49865fb4cab4cf1b8370b0adeb7dd045fabb/assets/research/compact-languages.svg" alt="Primary language counts for owned public non-fork repositories, not skill levels." width="180" /></a>
 
 <br clear="both" />
 
