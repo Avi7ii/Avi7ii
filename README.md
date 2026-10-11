@@ -1,13 +1,9 @@
-<!-- Compact research profile adapted from OP Bento (GPL-3.0).
-     Editable source: design/build.py and design/source/.
-     Fonts/icons and licenses: third-party/NOTICE.md. -->
+# Avi7ii
 
-<picture>
-  <source media="(max-width: 767px) and (prefers-color-scheme: dark)" srcset="assets/profile-mobile-dark.svg">
-  <source media="(max-width: 767px)" srcset="assets/profile-mobile-light.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="assets/profile-desktop-dark.svg">
-  <img src="assets/profile-desktop-light.svg" alt="Avi7ii. Applied Physics undergraduate at Yanshan University. Exploring quantum many-body physics and strongly correlated electron systems through QMC, DMRG, and machine learning algorithms at the intersection of physics and AI.">
-</picture>
+Applied Physics undergraduate at **Yanshan University**.
+
+Exploring **quantum many-body physics** and **strongly correlated electron systems**.
+Interested in **QMC**, **DMRG**, and **machine learning algorithms** at the intersection of physics and AI.
 
 <details>
   <summary>Open-source contributions</summary>
