@@ -23,4 +23,4 @@ I’m an **Applied Physics undergraduate at Yanshan University**, interested in 
 
 ---
 
-<sub>[All repositories ↗](https://github.com/Avi7ii?tab=repositories) &nbsp; · &nbsp; 
+<sub>[All repositories ↗](https://github.com/Avi7ii?tab=repositories) &nbsp; · &nbsp; Illustration by [Storyset](https://storyset.com/illustration/hand-coding/bro) &nbsp; · &nbsp; [Credits](assets/research/CREDITS.md)</sub>
