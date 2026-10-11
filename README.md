@@ -2,8 +2,11 @@
 
 Applied Physics undergraduate at **Yanshan University**.
 
-Exploring **quantum many-body physics** and **strongly correlated electron systems**.
-Interested in **QMC**, **DMRG**, and **machine learning algorithms** at the intersection of physics and AI.
+### Research interests
+
+- Quantum many-body physics & strongly correlated systems
+- Computational methods: QMC, DMRG, tensor networks, ED, and more
+- Machine learning algorithms & AI for physics
 
 <details>
   <summary>Open-source contributions</summary>
