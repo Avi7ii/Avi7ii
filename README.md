@@ -15,7 +15,7 @@
 
 ### 🛠 Scientific toolkit
 
-<img src="https://raw.githubusercontent.com/Avi7ii/Avi7ii/design/animated-research-profile/assets/research/python.svg" alt="Python" height="34" /> &nbsp; <img src="https://raw.githubusercontent.com/Avi7ii/Avi7ii/design/animated-research-profile/assets/research/pytorch.svg" alt="PyTorch" height="34" /> &nbsp; <img src="https://raw.githubusercontent.com/Avi7ii/Avi7ii/design/animated-research-profile/assets/research/numpy.svg" alt="NumPy" height="34" /> &nbsp; <img src="https://raw.githubusercontent.com/Avi7ii/Avi7ii/design/animated-research-profile/assets/research/jupyter.svg" alt="Jupyter" height="34" /> &nbsp; <img src="https://raw.githubusercontent.com/Avi7ii/Avi7ii/design/animated-research-profile/assets/research/latex.svg" alt="LaTeX" height="34" /> &nbsp; <img src="https://raw.githubusercontent.com/Avi7ii/Avi7ii/design/animated-research-profile/assets/research/git.svg" alt="Git" height="34" /> &nbsp; <img src="https://raw.githubusercontent.com/Avi7ii/Avi7ii/design/animated-research-profile/assets/research/linux.svg" alt="Linux" height="34" />
+<img src="https://raw.githubusercontent.com/Avi7ii/Avi7ii/design/animated-research-profile/assets/research/python.svg" alt="Python" height="34" /> &nbsp; <img src="https://raw.githubusercontent.com/Avi7ii/Avi7ii/design/animated-research-profile/assets/research/pytorch.svg" alt="PyTorch" height="34" /> &nbsp; <img src="https://raw.githubusercontent.com/Avi7ii/Avi7ii/design/animated-research-profile/assets/research/numpy.svg" alt="NumPy" height="34" /> &nbsp; <img src="https://raw.githubusercontent.com/Avi7ii/Avi7ii/design/animated-research-profile/assets/research/jupyter.svg" alt="Jupyter" height="34" /> &nbsp; <img src="https://raw.githubusercontent.com/Avi7ii/Avi7ii/design/animated-research-profile/assets/research/latex.svg" alt="LaTeX" height="24" /> &nbsp; <img src="https://raw.githubusercontent.com/Avi7ii/Avi7ii/design/animated-research-profile/assets/research/git.svg" alt="Git" height="34" /> &nbsp; <img src="https://raw.githubusercontent.com/Avi7ii/Avi7ii/design/animated-research-profile/assets/research/linux.svg" alt="Linux" height="34" />
 
 <br clear="both" />
 
@@ -23,7 +23,7 @@
 
 ### ✦ Open-source contributions
 
-<a href="https://github.com/Avi7ii/AirSend"><strong>↗ AirSend</strong></a> &nbsp; · &nbsp; <a href="https://github.com/Avi7ii/Zotero-glass"><strong>↗ Zotero glass</strong></a> &nbsp; · &nbsp; <a href="https://github.com/Avi7ii/GetBackMyWindows"><strong>↗ GetBackMyWindows</strong></a>
+<a href="https://github.com/Avi7ii/AirSend"><strong>AirSend</strong></a> &nbsp; · &nbsp; <a href="https://github.com/Avi7ii/Zotero-glass"><strong>Zotero glass</strong></a> &nbsp; · &nbsp; <a href="https://github.com/Avi7ii/GetBackMyWindows"><strong>GetBackMyWindows</strong></a>
 
 <a href="https://github.com/Avi7ii?tab=repositories"><img src="https://raw.githubusercontent.com/Avi7ii/Avi7ii/design/animated-research-profile/assets/research/overview.svg" alt="Public snapshot: 207 stars, 7 forks on owned non-fork repositories; 25 public repositories. 11 October 2026." width="47%" /></a>
 <a href="https://github.com/Avi7ii?tab=repositories"><img src="https://raw.githubusercontent.com/Avi7ii/Avi7ii/design/animated-research-profile/assets/research/languages.svg" alt="Primary language counts for owned public non-fork repositories, not skill levels." width="47%" /></a>
