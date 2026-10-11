@@ -2,9 +2,9 @@
 
 I’m an **Applied Physics undergraduate at Yanshan University**, interested in quantum many-body physics, strongly correlated systems, and the intersection of physics and AI. I’m exploring these areas through **numerical methods and machine learning**.
 
-<img align="right" src="https://raw.githubusercontent.com/Avi7ii/Avi7ii/c644e3d679494a46d03e56c504675021dfbbf278/assets/research/hand-coding-loop.gif" alt="Animated Hand coding illustration by Storyset" width="45%" />
-
 ### 🔬 Research interests
+
+<img align="right" src="https://raw.githubusercontent.com/Avi7ii/Avi7ii/c644e3d679494a46d03e56c504675021dfbbf278/assets/research/hand-coding-loop.gif" alt="Animated Hand coding illustration by Storyset" width="45%" />
 
 - ⚛️ **Quantum many-body physics** & strongly correlated systems
 - 🧮 **Computational methods:** QMC, DMRG, tensor networks, ED, and more
