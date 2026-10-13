@@ -18,7 +18,3 @@ I’m an **Applied Physics undergraduate at Yanshan University**, interested in 
 
 <a href="https://github.com/Avi7ii?tab=repositories"><img src="https://raw.githubusercontent.com/Avi7ii/Avi7ii/406e15094f1e83ed61e58a6196bea39ac300c232/assets/research/compact-overview.svg" alt="Public snapshot: 207 stars, 7 forks on owned non-fork repositories; 25 public repositories. 11 October 2026." width="26%" /></a>
 <a href="https://github.com/Avi7ii?tab=repositories"><img src="https://raw.githubusercontent.com/Avi7ii/Avi7ii/d012d86b304e74224a6335287eb8f9da73900595/assets/research/compact-languages.svg" alt="Primary language counts for owned public non-fork repositories, not skill levels." width="26%" /></a>
-
----
-
-<sub>[All repositories ↗](https://github.com/Avi7ii?tab=repositories) &nbsp; · &nbsp; Illustration by [Storyset](https://storyset.com/illustration/hand-coding/bro) &nbsp; · &nbsp; [Credits](assets/research/CREDITS.md)</sub>
