@@ -4,7 +4,7 @@ I’m an **Applied Physics undergraduate at Yanshan University**, interested in 
 
 ### 🔬 Research interests
 
-<img align="right" src="https://raw.githubusercontent.com/Avi7ii/Avi7ii/c644e3d679494a46d03e56c504675021dfbbf278/assets/research/hand-coding-loop.gif" alt="Animated Hand coding illustration by Storyset" width="45%" />
+<img align="right" src="https://raw.githubusercontent.com/Avi7ii/Avi7ii/3c799a2e0ee79c48469b84fbbbe4c67eded226f1/assets/research/hand-coding-loop.gif" alt="Animated Hand coding illustration by Storyset" width="45%" />
 
 - ⚛️ **Quantum many-body physics** & strongly correlated systems
 - 🧮 **Computational methods:** QMC, DMRG, tensor networks, ED, and more
